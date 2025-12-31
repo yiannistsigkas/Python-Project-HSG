@@ -1,4 +1,4 @@
-#Authors: Didrik Bengtsson, Adam Bursic, Max Prohorovs and Yiannis Tsigkas
+# Authors: Didrik Bengtsson, Adam Bursic, Max Prohorovs and Yiannis Tsigkas
 # Portfolio Risk Report Generator
 # This program loads a fixed CSV file called "sample_returns.csv",
 # extracts the data in a straightforward way using csv.DictReader,
