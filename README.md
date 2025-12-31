@@ -102,7 +102,7 @@ Maximum drawdown: 2.55% (worst peak-to-trough decline)
 
 Total return over period: 7.17%
 Final wealth (starting from 1 unit): 1.0717
--------------------------
+
 
 
 ## 6. Assumptions and limitations
